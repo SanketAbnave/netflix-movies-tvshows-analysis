@@ -29,7 +29,6 @@ Analyzed Netflix dataset using Python and visualization libraries.
 <img width="1076" height="571" alt="netflix-4" src="https://github.com/user-attachments/assets/60ca4201-bde7-4b09-968e-56ec75fb07a0" />
 <img width="1025" height="552" alt="netflix-7" src="https://github.com/user-attachments/assets/2394edd0-5374-47ad-a702-6437762012d2" />
 <img width="1076" height="571" alt="netflix-4" src="https://github.com/user-attachments/assets/e5f5ac7a-0d7f-4849-85e7-dd3564adeeb5" />
-<img width="627" height="502" alt="netflix-6" src="https://github.com/user-attachments/assets/5d9e1aac-ff76-4a43-9bbb-5d1a353a2fe8" />
 <img width="1051" height="558" alt="netflix-8" src="https://github.com/user-attachments/assets/34d71943-2b74-4486-b57d-50ca6cb6379f" />
 <img width="1015" height="542" alt="netflix-9" src="https://github.com/user-attachments/assets/4f10cfae-5c04-40d7-8f04-5eb6f856175d" />
 
