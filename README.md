@@ -23,7 +23,7 @@ Analyzed Netflix dataset using Python and visualization libraries.
 - TV-MA is the most common rating
 
 - ## Images
-- <img width="1013" height="567" alt="netflix-1" src="https://github.com/user-attachments/assets/bd4a40fe-a131-49f9-a402-e08f1783bbdb" />
+<img width="1013" height="567" alt="netflix-1" src="https://github.com/user-attachments/assets/bd4a40fe-a131-49f9-a402-e08f1783bbdb" />
 <img width="1086" height="531" alt="netflix-2" src="https://github.com/user-attachments/assets/979ffc9f-cdb2-4722-95a9-b84cab40775a" />
 <img width="1047" height="636" alt="netflix-3" src="https://github.com/user-attachments/assets/6ce80fa3-31e3-40df-b376-7da7f08fbdfa" />
 <img width="1076" height="571" alt="netflix-4" src="https://github.com/user-attachments/assets/60ca4201-bde7-4b09-968e-56ec75fb07a0" />
